@@ -11,9 +11,10 @@ permalink:        pretty
 # Setup
 title:            The OME Blog
 tagline:          'Because metadata is worth a thousand pictures'
-url:              https://blog.openmicroscopy.org
-repository:       ome/blog
-baseurl:          ''
+url:              ''
+repository:       joshmoore/ome-blog
+baseurl:          "/ome-blog"
+future:           true
 
 author:
   name:           'The OME Team'
